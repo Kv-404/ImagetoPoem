@@ -1,0 +1,1670 @@
+model,image,caption,mood_label,poem,clip,lines,n_lines,rhyme,keyword,mood,total
+base,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"In fields of sunflowers so bright,
+A blue sky whispers peace.
+Every flower in sight is kind,
+Giving joy to all.
+The wind sings a joyful tune,
+As sunflowers dance to the music.
+Peace on Earth, love in all,
+Happy flowers, you are welcome!",0.30633580684661865,1.0,8,0.0,0.8,1.0,0.54
+base,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"In fields of golden sunflowers sway,
+A blue sky above them bright.
+Gentle breezes rustle their hair,
+As joyous bees buzz on.
+Their petals gleam under the sunlight,
+Creating soft whispers in the air.",0.2993026077747345,0.0,6,0.0,0.8,1.0,0.54
+base,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"A sunny field of sunflowers blooms,
+Blue skies above, it seems to hold
+A peaceful joy that never dies.
+In the soft breeze, the flowers dance,
+Their petals spread wide, like dreams so sweet.
+And the moment we step out from behind,
+We feel a rush of happiness so true,
+For this scene, for this moment, forever stays.",0.29199379682540894,1.0,8,0.0,0.6,1.0,0.48
+base,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"In a hat and scarf, she laughs,
+With a smile that makes hearts beat.
+Her cheeks glow with a bright hue,
+As she dances with ease.
+
+She sways gently to the light,
+And her face lights up like a firefly.
+Her hair cascades down her back,
+A wisp of silver, as soft as a breeze.
+
+With a twinkle, and eyes full of cheer,
+She's the joy to behold and see!
+A picture-perfect moment of bliss,
+Where every frame is her smile.
+
+Her laughter echoes through the sky,
+A symphony of sweet delight.
+For all who watch, it's a sight so grand,
+A scene that will forever be cherished!",0.29131457209587097,0.0,16,0.0,0.6,1.0,0.48
+base,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"In a hat and scarf, she twirls,
+Her smile bright as sun.
+Cute hair, soft on her face,
+She beams with contented eyes.
+
+A gentle breeze whispers,
+Till her lips paint a sweet kiss.
+She laughs at life's little things,
+Joyful heart beats clear.",0.28520268201828003,1.0,8,0.0,0.6,1.0,0.48
+base,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"A woman in a hat and scarf,
+Smiles softly from head to toe.
+Hats and scarf weave a warm,
+In a smile so sweet and bright.
+
+The light casts her face,
+As she looks out at the world,
+With eyes that seem filled with hope,
+Of joy that's sure and clear.
+
+Her dress is a masterpiece,
+In color so vibrant and fresh,
+A piece of lace and fabric,
+That adds life to every frame.
+
+She walks with grace and ease,
+Through streets where love can be seen,
+Underneath the sun's bright ray,
+This happy woman knows well.
+
+The camera captures the charm,
+Of this serene lady who smiles,
+In all her beauty and cheer,
+A true beauty, not just a sight.",0.2878783047199249,0.0,20,0.0,1.0,1.0,0.6
+base,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"A man in his blue suit stands,
+On the stage, where joy is found.
+His face etched with cheer,
+As he dances to the beat of time.
+
+The audience cheers and applauds,
+In support of the joyful man.
+He smiles wide, his eyes shining bright,
+And all around him, applause rings loud.
+
+The music swells with a melody so sweet,
+It fills the air with happiness' high.
+A momentary lapse, just for a second,
+But this man's smile remains forever true.",0.2979540228843689,0.0,12,0.0,1.0,1.0,0.6
+base,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"In blue's embrace,
+A man stands tall and bright,
+On the stage, his face serene,
+Gazing at life with grace.
+
+His voice carries high,
+With tales to tell of old,
+In blue, he dances with delight,
+To music so pure.
+
+The crowd watches with amazement,
+As this man moves with ease,
+His smile a beacon,
+Of happiness and peace.
+
+Blue suits him well,
+For every line of his story,
+So let his words shine,
+In the hearts of those who see.",0.2526756823062897,0.0,16,0.0,1.0,1.0,0.6
+base,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"Under the blue light of dawn's soft glow,  
+A man in blue, his suit so bright,  
+He stands on stage, ready to shine,  
+His smile as bright as the early sun.  
+
+His words weave through the air, like music so pure,  
+His laughter echoing far and wide,  
+In the face of applause, he's never wrong,  
+In every word, joy is his guide.
+
+The crowd roars, with cheers that thrill,  
+Their voices blending together so sweet,  
+As this man, this one, shines for all to see,  
+With blue, green, and white, his spirit so clear.",0.24148596823215485,0.0,12,0.25,1.0,1.0,0.7
+base,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"Sunflowers sway gently in the breeze,
+Their petals dance with each passing light.
+The rustling leaves whisper secrets to us,
+As nature's artistry blooms under the sky.
+
+The golden hour gives them a glow,
+In hues of orange, pink, and deep blue.
+Each flower tells a story of life,
+Of beauty found in every greenery's hue.
+
+A moment here, an eternal scene,
+Where sunsets fill the fields of hope.
+In this fleeting world, they stand still,
+Reflecting on joy, love and peace.
+
+So let us cherish these sunflower blooms,
+And bask in their radiant glory's shine.",0.2735925614833832,0.0,14,0.25,1.0,1.0,0.7
+base,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"In the evening light,
+Sunflowers dance with delight,
+Field wide, they float free,
+Beneath the crimson sky.
+Each petal holds hope and joy,
+As they watch the world fade away,
+A joyful scene so true,
+Where happiness's soft melody sings.",0.301279217004776,1.0,8,0.25,0.6666666666666666,1.0,0.6
+base,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"Sunset paints the sky a deep shade,
+Golden hues on leaves that dance.
+Flowers sway gently in the breeze,
+Beneath the stars, their beauty shines.
+The sun climbs low, its warmth bright,
+A golden canvas painted so clear.
+Each petal of the sunflower blooms,
+In joy and peace, forevermore.",0.28007954359054565,1.0,8,0.0,0.6666666666666666,1.0,0.5
+base,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"In raindrops' soft embrace they walk,
+Under umbrellas bright as dawn.
+The street is filled with life,
+And joy in their steps.
+
+Bamboo shadows dance in the breeze,
+As friends share a sweet hug.
+The laughter echoes through,
+Like music to all who listen.
+
+They're on the move, so free,
+But heart and soul stays true.
+Life's sweet, fragile gift,
+For those lucky enough to have it!",0.18494606018066406,0.0,12,0.0,0.6,1.0,0.48
+base,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"A crowd gathers on the side,
+Their umbrellas fluttering in sway.
+With laughter mixed with care,
+They navigate the rain's soft breeze.
+
+Each step a dance,
+As they walk with joy and ease.
+Underneath the sky's gentle glow,
+The spirits find their peace.
+
+Beneath the city's bright light,
+These kind souls share their story.
+Together they make a beautiful sight,
+A sight to behold, so sweet and true.",0.20560193061828613,0.0,12,0.0,0.4,1.0,0.42
+base,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"In the sunshine's embrace they walk,
+Under umbrellas' shade, serene.
+The world below is a canvas bright,
+As they take in the light so sweet.
+
+A breeze rustles their hair, soft and clear,
+Their laughter echoes, joyful they sing.
+They're like friends, sharing their joy,
+In this moment, where love holds sway.
+
+Each step, an adventure, their hearts beat fast,
+Together on the street, they feel safe.
+As night descends, the sky's calm,
+And the rain begins to dry them out.
+
+So here stands this group, a team so kind,
+With umbrellas, they've found peace within.",0.21357399225234985,0.0,14,0.0,0.8,1.0,0.54
+base,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"A man with the mask on,
+He stands in front of a poster bright.
+Silhouetted against the light,
+His smile as pure as a dream.
+With his hands clasped tightly tight,
+He holds up an innocent hope.
+In this moment so rare,
+Happiness dances free to rise.",0.25932106375694275,1.0,8,0.0,0.7142857142857143,1.0,0.5142857142857142
+base,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"A face mask stands tall,
+A world unseen it does greet.
+In its embrace,
+We find our peace and strength.
+
+The poster shines bright,
+Embracing hope anew.
+As we breathe in fresh air,
+Our spirits rise high and bright.
+
+Through this shield,
+We see the light within,
+And with every breath, life's joy is given.
+
+Let us spread the love,
+To those who need it most.
+For though we may be alone now,
+Our hearts still hold on to hope.",0.16260157525539398,0.0,15,0.0,0.5714285714285714,1.0,0.4714285714285714
+base,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"In a world so gray,
+A face masked stand.
+Poster bright and true,
+Mood fills all its space.
+
+He smiles with pride,
+Of his strength he shows.
+He holds the light within,
+As one with the universe.",0.22787700593471527,1.0,8,0.0,0.5714285714285714,1.0,0.17142857142857143
+base,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"In the garden where blue blooms grow,
+A yellow flower whispers to me.
+With a heart so deep and full of care,
+It's in my garden where life finds its home.
+
+Its shadow dances across the ground,
+But still it holds out hope for all.
+The flowers around it seem pale,
+Their petals ask for no more to wear.
+
+In this corner where light can't shine,
+I see a sadness that's clear and true.
+And though I'm not here to comfort,
+My own tears will fall into their shade.",0.2593597173690796,0.0,12,0.0,0.4,0.5,0.27
+base,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"In a garden where blooms are bright, A single yellow flower with a black heart, Its stem is tender and bold.
+The petals spread wide to hold its grace,
+A sad sight in the sunlit day so clear.
+Yet still it remains, a reminder of pain,
+As nature's love for such beauty did fail.",0.29983294010162354,0.0,5,0.0,0.8,0.0,0.03999999999999998
+base,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"A yellow rose with a black mark,
+Her stem so bold and so tall.
+In her beauty we see sorrow,
+And pain she carries day and night.
+
+With each dewdrop she holds dear,
+To hold onto the memory.
+But in this moment of loss she cries,
+For her heart is heavy as coal.",0.2552318871021271,1.0,8,0.0,0.6,0.5,0.32999999999999996
+base,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"A desolate mansion lay in the dark,
+Silent echoes from its walls did haunt.
+No one dared to step upon it's gloom,
+Yet here, amidst the quiet solitude.
+
+A lone figure wandered alone,
+Lost in dreams that seemed so far,
+For there was no sign of life within sight,
+Save a shadowy presence, a ghostly light.
+
+The rustling leaves whispered secrets,
+As the wind blew through the empty halls,
+While stars twinkled overhead like tears,
+As if seeking solace in their glow.
+
+Oh, what a haunting beauty, so serene,
+In this forsaken space where sorrow did reside.",0.23924535512924194,0.0,14,0.25,0.0,1.0,0.4
+base,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"In a heart-stopping place,
+An old house stands alone,
+Its walls weathered with age,
+A silent soul within it.
+The moonlight casts eerie shadows,
+Echoing memories old,
+Lost children in its darkened night,
+A reminder of past dreams.
+Yet still I stand at its edge,
+Feeling lost and forsaken,
+For no one has ever visited here,
+But only time leaves us all free.",0.2889128029346466,0.0,12,0.0,0.25,1.0,0.375
+base,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"In the heart of the unknown,  
+A forgotten house lies still,  
+Silent walls hang low,  
+The rusted door stands silent.  
+Shadows stretch like tendrils,  
+The only sound is the wind's sigh.",0.27799126505851746,0.0,6,0.0,0.25,1.0,0.375
+base,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"Rain falls down on the city's streets,
+A blanket of white that seems to stretch.
+It rains, it rains, it rains day after day,
+Everywhere, everywhere the noise is.
+The air is still and the world is still.
+But in this city, in these storms,
+We feel like we're not alone,
+Our hearts ache with sorrow so deep.
+So let's hold hands in tears, let's cry out loud,
+For rain in the city, it does bring joy too.",0.27521607279777527,0.0,10,0.0,1.0,1.0,0.6
+base,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"Oh how the rain of the city,
+Leaves wet spots on sidewalks wide;
+The windows shake, like an old door,
+In sorrow they stand for many days long.
+
+It pours down on us with a gentle sigh,
+As we sit under umbrellas low.
+A melancholy mood to keep with,
+Rain in the city, it never fails to bring.
+
+Though the sky may appear gray and gloomy,
+Still the sound of rain will always be here.
+For though the rain is heavy at times,
+It's not all bad; sometimes it makes us strong too.",0.28523531556129456,0.0,12,0.0,1.0,1.0,0.6
+base,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"Rain falls on cities tall,
+A gentle rain, soft as sleep.
+It clings to the windows wide,
+Carrying sorrow, through the streets wide.
+
+The ground is damp and gray,
+Leaves rustle under feet so deep.
+Water lingers near, like wet clouds,
+Burying memories that long gone.
+
+This poem captures the mood of a rainy city, with raindrops falling down city streets and walls, carrying sadness through the city's structures. The imagery of the rain, its sound, and the earthy colors evokes a melancholic atmosphere. It also incorporates simple rhymes and sounds that help convey the poet's feelings.",0.29469332098960876,0.0,9,0.0,1.0,1.0,0.09999999999999998
+base,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"A pile of yellow petals lie,
+On a stretch of dirt where it starts.
+The sun shines bright with dew,
+But there's nothing but sadness.
+
+With every gusty breeze,
+The petals fall away in their flight.
+Aching heart and empty thought,
+They drift across the silent road.
+
+A lone traveler stands on end,
+In search for solace to find.
+Yet the sorrow grows stronger still,
+As time goes by without rest.
+
+So let them remain here,
+In this place where they'll stay.
+For now, in their plight they stand,
+A reminder that sometimes life can be tough.",0.22503302991390228,0.0,16,0.0,0.5,1.0,0.14999999999999997
+base,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"A heap of white daisies,
+So close to the dirt's craggy face,
+In the sun’s bright, it glitters free,
+But here they lie sadly still.
+
+The breeze whispers through the leafy lane,
+Falls a soft, sweet sound,
+As if each bloom in its own way,
+Tears away the loneliness within.",0.1842706948518753,1.0,8,0.0,0.0,0.5,0.15
+base,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"In a vale where flowers do twinkle,
+A heap of them, on the edge,
+A mood of melancholy fill.
+The sun's rays dance upon their skin,
+As though they were but fairies' grace.
+Yet, even in this scene so fair,
+I'm left feeling sorrowful too,
+For though I'd like to be here,
+The world is always changing my mind.
+
+(Note: I've tried to capture the essence and emotion expressed in the original snippet, while ensuring it meets the specified format and style requirements.)",0.18316057324409485,0.0,10,0.0,0.25,0.0,-0.125
+base,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"In streets where bikes do stand,
+Cars drive through empty spaces.
+A melancholic sight,
+The peace and quiet they bring.
+The sun sets below the horizon,
+And cars take their resting place.
+For now, it's all in vain,
+For cars will keep on driving on.",0.24713583290576935,1.0,8,0.0,0.5,0.5,0.3
+base,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"Across the busy streets I stand,
+Bikes and cars all in one line.
+A world of noise and emptiness,
+A city without life.
+
+The sun beats down on my face,
+A reminder of how things used to be.
+But now it's just me standing here,
+A silent witness to the strife.
+
+The streets below, so empty and gray,
+Reflects our loss, we see no light.
+Though we may not be able to move,
+In this place, nothing can make us free.",0.206029012799263,0.0,12,0.0,0.6666666666666666,1.0,0.5
+base,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"In the silent lane where bikes congregate,
+Parked cars lie motionless, no noise.
+The world is dark without their path,
+A world in darkness now, gone and lost.
+The city's soul lies in its quiet,
+A place where joy never truly flows.",0.25629696249961853,0.0,6,0.0,0.6666666666666666,1.0,0.5
+base,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"The clouds loom like shadows high,
+Over the sleepy city in its light.
+Drops of raindrops paint the earth,
+In shades of gray and blue they fall.
+But still the sky remains so fair,
+Though the sun may be low to the sea.
+
+The sky seems sad, with no bright show,
+As day turns into night once more.
+But for now, let the rain dance,
+On those who stand under the moon's soft glow.",0.1964643895626068,0.0,10,0.0,1.0,1.0,0.6
+base,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"In the gray, misty skies I see,
+A sorrowful face in the distance.
+Clouds drift on like raindrops falling,
+The world around me feels distant.
+The stars twinkle in a dim light,
+Silent, waiting for some bright day.
+In this cloud of sadness I know,
+My heart is heavy with all that's wrong.",0.24026626348495483,1.0,8,0.0,0.5,1.0,0.44999999999999996
+base,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"The clouds gather in shades of grey,
+As days pass without sun to shine.
+The world outside seems dark and gloomy,
+Aching for clear blue skies.
+
+Birds perch on rooftops silent,
+Their wings aching with fatigue.
+The wind whispers through leaves that flutter,
+As nature's sadness dances around.
+
+In the distance, the world seems pale,
+But hope remains strong and bold.
+For sometimes, even in sadness,
+There's always a glimmer of light that brightens.
+
+So let us hold onto our dreams,
+And seek out the beauty in life's embrace.
+For though the sky may not always be fair,
+We can find joy and peace within its shade.",0.1974305957555771,0.0,16,0.0,1.0,1.0,0.3
+base,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"In a tiny little home by the woods,
+A tree stands tall and proud.
+Silent whispers echo through the trees,
+A melancholy sound that's so deep.
+
+The sun barely sets on the old house,
+As rain-soaked leaves dance around it.
+Birds cry softly under the canopy,
+While stars twinkle bright, their soft light.
+
+The world outside is a dark place,
+Where dreams and fears intertwine.
+Yet inside, there's a quiet stillness,
+A peaceful peace where sadness can be found.
+
+And though life may seem bleak here,
+I'll find comfort in my small home.
+For in its quiet beauty I'll keep
+My heart safe and my soul well kept.",0.23737674951553345,0.0,16,0.0,0.5,1.0,0.14999999999999997
+base,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"A tiny home in a big tree's shadow,
+A place where peace can be found.
+The trees stretch their branches wide,
+As though to say goodbye.
+And yet inside it all goes,
+A heartbroken sigh and a tear.
+
+The leaves rustle softly underfoot,
+Like whispers from a lost land.
+For here is a world so small,
+Yet filled with love that can't escape.
+
+No one comes near, no one calls,
+Only shadows dance around the door.
+But this house holds me close,
+To memories I'll never let go.
+So I sit here on the floor,
+And let my tears fall like raindrops.",0.22438494861125946,0.0,16,0.0,0.5,1.0,0.44999999999999996
+base,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"In the heart of a forest, 
+A house stands alone,
+Its windows wide open,
+And night is its friend.
+
+The moon casts long shadows,
+As night descends below,
+With only light to spare,
+In this lonely space.
+
+For there's something wrong inside,
+Something that makes me cry,
+For I am small, so fragile,
+But in my little home.
+
+So here I sit, with no friends,
+To watch the world go by,
+But in my house,
+I find a place safe.",0.2147701382637024,0.0,16,0.0,0.75,1.0,0.22499999999999992
+base,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In the dense mist,
+Trees stand tall and bold,
+Rock walls rise high,
+In serene silence they lie.
+Nature's beauty is shown,
+Under this misty scene,
+Peaceful yet grand,
+A tranquil forest we'll keep.",0.297105610370636,1.0,8,0.25,0.8,1.0,0.6399999999999999
+base,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In a misty grove where trees stand tall,
+Rocky moors whisper secrets soft.
+Whispering winds sing songs free,
+Beneath the canopy's dense shade.
+Leaves dance in the cool, clear air,
+Silence speaks of old tales untold.
+Peace whispers through the gossamer leaves,
+Fog gently sweeps away fear.",0.3134695589542389,1.0,8,0.0,0.4,1.0,0.42
+base,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In the misty glade, where trees stand tall,
+Rocks whisper secrets to me within.
+Sunset's glow casts shadows deep,
+In the softness of the forest air.
+
+Mist rises high, a veil so thin,
+That everything seems to be new.
+A peaceful breeze whispers softly,
+As I step into this cozy place.",0.28345680236816406,1.0,8,0.0,0.8,1.0,0.54
+base,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two sleepy ducks,
+In the river's quiet stream,
+Bathing on clear water,
+Gently moving in still air.
+
+Peaceful eyes they watch,
+Under the sun's warm glow,
+As they glide gently through the water,
+Nurturing each other's warmth.
+
+A gentle breeze they feel,
+Till the sound of wings breaks,
+As their love for each other grows,
+In this peaceful moment, forever.",0.29393166303634644,0.0,12,0.0,0.5,1.0,0.44999999999999996
+base,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two tiny fawns frolic in the river,
+Eagles fly above their silent wings.
+Soft waves gently lap their sides,
+A serene scene of blissful peace.",0.3059684634208679,0.0,4,0.0,0.0,1.0,0.3
+base,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two baby ducks swim in peace,
+Their feathers as white as snow.
+The water reflects their happy face,
+A sight so beautiful to see.
+The sun's warmth is on their skin,
+And their wings, like tiny flags,
+Flapping gently in the breeze,
+As they play with the waves.
+
+The sound of water underfoot,
+Is a symphony so clear,
+Of life that's born to be free,
+In this moment, it's all true.",0.2976205348968506,0.0,12,0.0,1.0,1.0,0.6
+base,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"In a landscape as serene,
+A thousand trees stand aloof.
+The sky is blue above so bright,
+A calm sea beneath us.
+
+Cows frolic near the shore,
+Their milk sparkling like dew.
+Leaves whisper secrets in breeze,
+Nature's breath takes flight.
+
+Peace flows through air,
+Each breath cleans our souls.
+Here we find peace, pure and whole,
+In this scene, we are at home.",0.19570574164390564,0.0,12,0.0,0.0,1.0,0.3
+base,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"A glimmering lake,
+Whispers in the soft mist,
+Nature's canvas painted bright,
+In Scotland's verdant hills,
+Life flows gently still.
+Beneath moonlit skies so bright,
+The world comes to rest.
+Peace, serene, serene,
+In every step we take.",0.26664358377456665,0.0,9,0.0,0.5,1.0,0.44999999999999996
+base,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"In the Scottish landscape so green,
+A tranquil lake lies at my side.
+Softly the waves dance upon its edge,
+As sunsets paint the sky so bright.
+
+The air is filled with the scent of grass,
+And birdsong echoes through the air.
+Here I find peace, where time seems to pass,
+In this peaceful scene so serene.
+
+I step out into the soft misty fog,
+And the world looks as calm as it should.
+Each breath a deep breaths, I take,
+For in these woods, in this moment's light.
+
+The view is like a painting that paints,
+A beautiful scene, without any strain.
+The lake mirrors the sky so pure,
+A sight so serene, where life is found.",0.1996324509382248,0.0,16,0.25,0.75,1.0,0.625
+base,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"A moose in misty gloom,
+Silent eyes watch for night's way.
+Whistles fill the air, a soft tune,
+Beneath the blue sky it floats.
+
+With slow steps, it moves on,
+A silent sentinel in its way.
+Fog whispers secrets softly,
+In the morning light, it stays.
+
+The world fades to white,
+As the sun breaks through like stars.
+But the moose's path is clear,
+Guiding through this wistful haze.",0.2974289059638977,0.0,12,0.0,0.5,1.0,0.44999999999999996
+base,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"A sleepy moose in misty daze,
+Slept soundlessly under a dark spell.
+The fog hushed his sleep's gentle flow,
+As he curled up in a cozy, soft bed.
+
+The stars above twinkled in glee,
+As if to lull him back into play.
+But just when he thought he was safe,
+An icy wind whispered coldly through.
+
+He woke with a start, feeling so light,
+As though all the worries had gone away.
+His eyes wide open, in wonder,
+Of what this moment meant, in its quiet hue.
+
+In the silence of this peaceful scene,
+Lies a tale untold, yet so clear.
+For every moment lost, can bring forth new hope,
+In the face of life’s greatest mystery!",0.31630054116249084,0.0,16,0.0,0.5,1.0,0.44999999999999996
+base,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"In the misty night's veil,
+A mighty moose glides, still,
+Beneath a cloudless sky,
+His fur aglow with light.
+Silent, he wanders far,
+Through woods so dark and vast,
+The world fades from his sight,
+Yet calmness reigns within him.
+Oh, how he dances in peace!",0.32375842332839966,0.0,9,0.0,0.25,1.0,0.375
+base,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"The sky turns silvery at dusk,
+As waves gently caress the shore.
+Birdsong fills the air with melody,
+Nature's symphony in full bloom.
+
+The sand beneath the soft, warm glow,
+With crickets chirping like lullabies.
+Birds of all shapes and sizes fly,
+In search of peace and quiet rest.
+
+The waves crash against the sandy ground,
+A sight so serene, yet so sweet.
+Underneath the stars, the world is small,
+A place where time seems to slow.
+
+Oh, this moment, so tranquil and rare,
+Where dreams come to life and we're free.
+A beach at sunset, so beautiful,
+A place that reminds us how pure and true.
+
+This tranquil scene I've painted above,
+A moment captured with love and grace.
+Of peace,",0.25148385763168335,0.0,19,0.0,1.0,1.0,0.6
+base,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"Upon the tranquil sands of dusk,
+A lullaby fills the air.
+Silent waves whisper tales untold,
+Birds dance in hues that gleam.
+Sunset paints the sky like a soft blue,
+Softly casting shadows on the shore.
+The world around lies in peace and quiet,
+Underneath the warm embrace of the setting sun.",0.2785623073577881,1.0,8,0.0,0.75,1.0,0.5249999999999999
+base,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"Under the evening sky's soft glow,
+On the sandy shore where the waves meet.
+Seagulls soar in silent delight,
+Their cries echo through the twilight's embrace.
+
+The sun dips lower, painting the sky in hues,
+As the ocean whispers peace to the sky.
+Birds flit from tree to tree,
+In tranquil serenity they dance.
+
+This moment of stillness so serene,
+Is captured in the quiet, clear night.
+A world of nature comes alive,
+In this beautiful, peaceful spot.",0.25236862897872925,0.0,12,0.0,0.5,1.0,0.44999999999999996
+base,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"In a quiet corner by a building's side,
+A little space where peace finds its way.
+Leaves whispering low as morning light
+Shines on soft moss-covered walls.
+
+Birds sing softly through the air, free
+As the gentle breeze rustles their wings.
+Water drips gently from old pots,
+While flowers bloom, their colors bright.
+
+The sky is blue, vast and endless,
+A world of calm, where worries have gone.
+In this small, peaceful place,
+Peace reigns supreme, it seems.",0.21935947239398956,0.0,12,0.0,0.5,1.0,0.44999999999999996
+base,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"A tranquil garden stands,
+In the heart of a towering tower.
+Leaves rustle softly on the wind,
+While shadows play on the stones.
+The sun casts soft golden light,
+Luminous through the windows so bright.
+A place of peace and quietude,
+Where time seems to stand still.",0.22392505407333374,1.0,8,0.25,0.25,1.0,0.475
+base,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"In the heart of a large house's walls,
+A garden whispers to the quiet room.
+Small flowers bloom, their green embrace,
+Under soft moonlight that bathes them all.
+
+The scent of freshly cut grass soaks the air,
+Mood serene, as nature’s artistry shows.
+Children laugh beneath the shade they seek,
+In peace, they play without strings.
+
+The wind dances through the tall trees,
+Whispers to the earth, soothing its soul.
+Peaceful sounds from every part,
+Gazing into life, we find our place.
+
+This little garden, a piece of heaven,
+A space where worries leave behind.",0.2169393002986908,0.0,14,0.0,0.5,1.0,0.44999999999999996
+base,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"A troupe of souls in throng,
+With glee they raise their hands,
+As night's velvet sky unfolds,
+Their dance with grace and might.
+Chorus: Let the music fill the air,
+In joyous embrace they're found,
+Each step a melody's tune,
+Their hearts sing like summer breezes soft.",0.23973551392555237,1.0,8,0.0,0.25,0.5,0.22499999999999998
+base,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"In the warmth of the night's embrace,
+The dancers twirl, their grace so bold.
+With their feet on the floor,
+They move with ease, like birds so free.
+
+Their eyes sparkle as they dance,
+Through music that never grows old.
+A symphony of sound,
+Each beat a part of joy.
+
+In this moment they find their way,
+Where dreams take flight in the air.
+Together, they cross paths,
+In the heart of this night so grand.
+
+So let them dance, to each other's side,
+For tonight they'll stay forever more.",0.19979575276374817,0.0,14,0.0,0.5,1.0,0.44999999999999996
+base,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"A crowd gathers to meet,
+Wings of light dance on their feet.
+From shadows they rise,
+Their hearts alight with delight.
+Chorus: ""Here we'll celebrate,
+Joyous moments in our party.""",0.24269002676010132,0.0,6,0.5,0.5,0.5,0.5
+base,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"A skater with energy full,
+Traces his grace on the slope.
+Blow-by jumps and turns so bold,
+He dances like a ballet.
+In the wind, he's seen it all,
+His spirit soaring high.
+Each leap higher, each turn more,
+The world fades to light.
+He's in control of himself,
+And nature smiles when he does.",0.2570232152938843,0.0,10,0.0,0.2,0.5,0.21
+base,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"A boy leaps high above the pavement,
+His skateboard wheels spin and fly.
+He slides down, his muscles tense,
+In a dance of grace and power.
+The air bubbles rise around him,
+As he flips, his legs don't bend.
+A thrill in every breath,
+As this young man does a trick.",0.27097904682159424,1.0,8,0.0,0.8,1.0,0.54
+base,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"In the skatepark's light, he slides with ease,
+A youthful leap, his spirit in high flight.
+The breeze whispers through his hair,
+As he turns tricks, his stride so fast.
+For in this moment, he finds his grace,
+And dreams fly like balloons in his skies.",0.2438494861125946,0.0,6,0.0,0.4,1.0,0.42
+base,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"Firework's flash lights up the night,
+Town's streets glow under the moon.
+Stars twinkle like diamonds bright,
+In the twinkling of an eye.
+Waves crash against the shore,
+As fireworks rise in sight.
+The air is alive with colors,
+A celebration of the night.",0.2851179242134094,1.0,8,0.5,0.75,0.5,0.575
+base,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"In the dark of night, the skies above,
+Fireworks flash like magic stars.
+City lights dim with each flicker,
+As night descends, and the town's fate.
+
+The firecrackers ring and wail,
+A symphony of joy they share.
+The breeze rustles as the fireworks twirl,
+Nature's dance, an endless delight.
+
+Stars twinkle like diamonds bright,
+Over the city, where dreams rise.
+For here, under the starlit night,
+Life bursts forth, in unison.",0.24737286567687988,0.0,12,0.0,0.75,0.5,0.375
+base,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"Winds weave through the city's streets,
+Fireworks dance across the night's vast expanse.
+The glow they create, it's bright and grand,
+A symphony of light, so pure and clear.
+
+The distant sounds echo from afar,
+Echoes of music, dancing shadows all around.
+The city lights sparkle, like diamonds falling from the sky,
+At dusk, they give life to every corner.
+
+Stars twinkle above, as if to guide them,
+To where they're meant to go tonight, with much joy.
+And in this moment, we feel alive,
+In this peaceful town under the moon's soft grace.",0.2369612157344818,0.0,12,0.0,1.0,1.0,0.6
+base,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"In the night's vast expanse, the stars they light,
+A symphony of colors, like wild birds' songs.
+The moon above, a shimmering gem so bright,
+Gleams with the firecrackers that chase the dawn.
+
+In each flare, a flame ignites and grows,
+As the city lights twinkle with the thrill.
+A dance between Earth and sky,
+In this cosmic ballet, we join in joy.
+
+The fireworks, a sight to behold,
+A momentary delight for all the brave.
+Each explosion, a story of courage bold,
+A reminder that even the smallest sparks can ignite the spirit.
+
+So let your spirits soar with this radiant show,
+For in the night sky, where dreams take flight,
+Fireworks bring us cheer, their beauty never end.",0.22378772497177124,0.0,15,0.25,0.75,1.0,0.625
+base,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"In the night sky above,
+Fireworks dance with delight.
+Their colors ignite so bright,
+A sight to behold they show.
+
+The firecrackers go off like a drum,
+A symphony of explosions they bring.
+They fill the air with their loud noise,
+Energetically making everything glow.
+
+As the night sky turns its face,
+The fireworks sparkle and play.
+In this moment, they celebrate,
+For light has never been more splendid.",0.2579663097858429,0.0,12,0.0,0.75,1.0,0.5249999999999999
+base,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"In the dark expanse,  
+Fireworks dance above,  
+Crisp air whispers of flame,  
+A cosmic show at night.
+
+Stars twinkle like diamonds,  
+Lightning crackles in the sky,  
+Glowing stars in the distance,  
+A celestial ballet is set.
+
+Chorus:
+Wings of fire soar high,
+Whispers of the unknown weaves,  
+A night of wonder and light,  
+In this moment, nothing else does.
+
+This poem captures the essence of a vibrant and thrilling fireworks display in the nighttime sky, using vivid imagery to evoke emotions and create an energetic mood. The use of simple language with subtle rhymes and variations in word choice helps maintain a lively tone throughout the 8 lines.",0.23894108831882477,0.0,14,0.0,0.75,1.0,0.02499999999999991
+base,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"A sea of faces, so wide,
+Each voice high in its own flight.
+The music rings out, loud and free,
+As if the heart is caught in a trance.
+
+People move, as if they're fleeing,
+A rush through streets, without shame.
+Their energy, wild and bold,
+In this crowd, their hearts beat strong.
+
+And then, when it's done, oh so bright,
+They fade away like the stars.
+But in that moment, there was grace,
+When the world turned to pure ecstasy.",0.25349321961402893,0.0,12,0.0,0.5,1.0,0.44999999999999996
+base,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"A sea of faces, vibrant and bold,
+Music in the air, a symphony so loud.
+Drums clash, horns shout, the night is bright,
+People pulse, hearts beat with a thrill.
+
+They move, they laugh, it's not just music alone,
+Each breath a story, their souls they share.
+The crowd dances, the stage floats,
+A force that moves all around them to dance. 
+
+This poem captures the energy and enthusiasm felt by those in the crowd, using simple language and descriptive imagery to convey the scene. The use of ""drums"" and ""nights are bright"" creates an image of lively, festive atmosphere, while ""people pulse, hearts beat with a thrill"" emphasizes the infectious nature of the moment.",0.25433099269866943,0.0,9,0.0,0.5,1.0,-0.050000000000000044
+base,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"A sea of faces in a band's stage,  
+Rumbles of music fill the air they toss.  
+Whispers echo through the cavernous space,  
+With energy coursing through every heart.
+
+The crowd dances under the light,  
+Each step a rhythm that makes their eyes burn.  
+Their spirits lift with each sound,  
+As one, they sing the songs of the night.
+
+They shout and clank, their voices so loud,  
+A symphony of joy, all at once.  
+In this moment of magic, they're free,  
+To let the world around them pass by.",0.255627304315567,0.0,12,0.0,0.25,0.5,0.22499999999999998
+base,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"In the heart of city's bustling land,
+A man with a wagging dog,
+His spirit moves as he walks along,
+In life's journey, where love's true.
+The dog's tail wagging fast,
+As they traverse the streets so wide,
+Their bond a constant theme,
+A symphony of joy and grace.",0.21148011088371277,1.0,8,0.0,0.4,0.5,-0.02999999999999997
+base,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"A towering figure stands tall,
+With his dog beside him.
+Their bond, so close and strong,
+Is like a heartache you won't break.
+
+The dog's tail wagging gently,
+As they run through the field near.
+Their friendship, true and pure,
+Brings joy to all who see them.
+
+This moment, in time so fine,
+Is captured by my pen's swift strokes.
+It reminds me, that love is not just,
+But can be found even in our day.",0.16525526344776154,0.0,12,0.0,0.2,0.5,0.21
+base,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"In the age of bronze's grand embrace,
+A man stands tall, his gaze so bright.
+Leashed to his pride, he does dare,
+His days filled with joy anew.
+
+With each step, the dog's joyful bark,
+A bond of life, a bond that's new.
+In this timeless sculpture we find,
+A moment, forever etched in our hearts.",0.28099876642227173,1.0,8,0.0,0.8,0.0,0.24
+base,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"Waves crash against the beach's shore,
+Lights flicker like fireworks so bright.
+The air is crisp as the stars do shine,
+As night descends to sea, so serene.
+
+The laughter echoes in the breeze,
+Of kids laughing with hearts full of flame.
+Shells pop and shatter, but they don't weep,
+For joy's song, forever will stay true.
+
+Calm winds blow gently, away from all strife,
+As dreams of tomorrow start to grow.
+In this moment of light and fire,
+We find solace in life that's pure.",0.23200763761997223,0.0,12,0.0,1.0,0.5,0.44999999999999996
+base,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"Fireside glow, lights dance with glee,
+Sunlight beams through shells of smoke.
+Coral hues whisper secrets to the moon,
+As shadows stretch wide as the ocean's wave.
+The sound of laughter echoes across the shore,
+From children playing, to men drinking wine.
+In this moment, all worries dissolve away,
+For in the sky above, nature sings its cheer.",0.21103903651237488,1.0,8,0.0,0.3333333333333333,0.5,0.25
+base,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"On the sand, they ignite,
+Waves dance in delight.
+Fireworks flash like diamonds,
+Casting shadows wide.
+
+A symphony of colors bright,
+Merrily, they play their part.
+Breeze whispers through the air,
+A melody that dances on the shore.
+
+Glamorous as stars below,
+The sky is painted with hues so rare.
+From blue to golden gold,
+The world we've seen, anew.
+
+In the darkness, their light shines bright,
+A show that's never before.
+Let this moment be forever etched,
+As memories of fireworks fill.
+
+Oh, how these waves, so bold and free,
+Reflect our spirit and heart's own.",0.21488633751869202,0.0,18,0.25,0.3333333333333333,0.5,0.35
+fine-tuned,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"Sunflowers sway under the light,
+Their petals dance as they grow.
+In the azure sky above,
+Peace blooms like joy it feels.
+
+Each petal a smile on the wind,
+With color as its paint.
+Blossoms wide to share their grace,
+In this vibrant garden we find.",0.29098403453826904,1.0,8,0.0,0.4,1.0,0.42
+fine-tuned,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"Sunflowers sway under blue skies,
+In fields wide as their gardens lie.
+Each petal a smile, they glow bright,
+While clouds drift softly by without fear.
+
+The wind whispers secrets of old,
+As they bloom like dreams come true.
+With joyous hearts they grow apart,
+In this serene moment eternal.",0.3089163601398468,1.0,8,0.0,0.6,1.0,0.48
+fine-tuned,happy/01c99056-c594-4fc9-9e94-219906d773cb.jpg,a field of sunflowers with a blue sky in the background,happy,"Sunflowers sway gently by the breeze,
+Their petals like tiny sails in the wind.
+Blue skies stretch out above them high,
+As they bloom in pure happiness.
+
+Each petal painted with joyous light,
+In fields wide as seas they dance and float.
+The scent of blooming flowers fills your mind,
+With甜蜜的芬芳和希望的光芒。",0.28231561183929443,1.0,8,0.0,0.6,0.0,0.18
+fine-tuned,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"With her head covered tight,
+She smiles with a smile that's true.
+The light from behind her cloak
+Fills the room with joy she sees.
+
+Her hair cascades down her face,
+Like strands of sunlight dancing free.
+In this moment, everything seems new again,
+As if time has paused, just for her.",0.2600812017917633,1.0,8,0.0,0.4,1.0,0.42
+fine-tuned,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"With her head tilted upward,
+Her smile is like sunshine on rain.
+She wears a hat that dances,
+As she looks into our camera's eye.
+
+Each frame tells her story new,
+In this moment of joy it's clear.
+We capture an image true,
+Of a lady who feels whole again.",0.30210623145103455,1.0,8,0.25,0.6,1.0,0.5800000000000001
+fine-tuned,happy/757421bd-5ba1-4291-8c85-66cff97c11e5.jpg,a woman in a hat and scarf smiles at the camera,happy,"With her hat on high and her scarf tied tight,
+She dances with a smile that lights up your soul.
+Her eyes spark like fire, as she talks of joy,
+In this moment where all is right.
+
+The world seems still, but just beneath its skin,
+There's life flowing through every cell inside.
+As she looks into your camera lens,
+With her hand resting gently against it, she says, ""Thank you.""",0.268184632062912,1.0,8,0.0,0.8,1.0,0.24000000000000005
+fine-tuned,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"He stands tall on the stage,
+With his blue suit as his accent.
+His face lights up with delight,
+As he dances to the beat he knows.
+
+The crowd claps their approval,
+And he laughs like no one has ever laughed before.
+For this is not just any show,
+This is his joy, all wrapped up in love.",0.275738388299942,1.0,8,0.0,0.8,1.0,0.54
+fine-tuned,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"On the stage, he stands tall,
+With his blue suit a sight to behold.
+His face a smile that lights up all around,
+As he dances through life's challenges.
+
+He sings softly with a heart full of love,
+And his words bring joy to every one.
+The audience cheers and claps along,
+For this man is true happiness all day long.",0.30158597230911255,1.0,8,0.25,1.0,1.0,0.7
+fine-tuned,happy/8363f312-35a5-4d4b-a3c4-1435f5aa411b.jpg,a man in a blue suit standing on a stage,happy,"With blue suits and silver gowns,
+He stands on a stage as grand.
+His voice sings like music to hear,
+In joy that never fades from his heart.
+
+The audience鼓掌，cheers high,
+As this man's success brings them all close.
+Their laughter echoes through the air,
+A joy that makes their days bright anew.",0.25811734795570374,1.0,8,0.0,1.0,1.0,0.6
+fine-tuned,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"Sunflowers stand tall in the light,
+Their petals sway like dancing lights.
+The rustling leaves below create a dance,
+As they celebrate life's most beautiful day.
+
+Each petal reveals an intricate design,
+Like a secret code that only they know.
+In this moment of peace and joy,
+They send out their sweet scent through all we see.",0.2634115517139435,1.0,8,0.0,0.3333333333333333,0.5,0.25
+fine-tuned,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"Sunlight dances on fields wide,
+Flowers bloom like dreams within.
+Golden petals unfurl softly,
+In hues that never cease to flow.
+
+They sway gently under the sky's embrace,
+As shadows play with their faces serene.
+Each petal is a story told,
+Of love, joy, and peace we'll share.",0.26369941234588623,1.0,8,0.0,0.3333333333333333,1.0,0.39999999999999997
+fine-tuned,happy/b513d6ae-7c0c-4a74-a2cf-fc17509c7d3a.jpg,sunflowers in a field at sunset,happy,"Sunlight dances on petals bright,
+Flowers sway as they say goodbye.
+In the warm glow of dusk's light,
+The sunflower smiles with contentment.
+
+Each petal is a letter written,
+To life that never ends, yet still does grow.
+In this fleeting moment, all worries pass,
+For in nature's art, time is truly still.",0.28659287095069885,1.0,8,0.25,0.3333333333333333,1.0,0.5
+fine-tuned,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"With umbrellas伞在手，漫步街。
+阳光照人暖，心旷神怡然。
+
+雨点落滴滴，行人步伐轻。
+笑语盈耳旁，幸福瞬间生。",0.20390889048576355,0.0,4,0.0,0.2,0.0,0.06
+fine-tuned,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"With umbrellas they walk hand in hand,
+In the sun's warmth their laughter runs.
+The streets stretch wide as eyes can see,
+A place of joy where hearts do beat.
+
+Each step is a dance, with rain and shine,
+Under the sky that always holds its breath.
+The air is crisp, but not cold,
+As they share stories, old and new.",0.20839224755764008,1.0,8,0.0,0.6,1.0,0.48
+fine-tuned,happy/bedf1308-f6cc-4e6c-951c-1efeb891c8ab.jpg,a group of people walking down a street with umbrellas,happy,"The streets stretch wide as daylight,
+The umbrellas shield our faces from the sun.
+We step out in pairs, our laughter loud,
+As neighbors converse under the glow.
+
+The breeze whispers through leaves we touch,
+Each hand holds a story untold.
+In this moment of joyous cheer,
+We find a shared place, all together.",0.23534923791885376,1.0,8,0.0,0.4,1.0,0.12
+fine-tuned,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"He wears the mask with care,
+His smile a sight to see.
+The posters glow softly within his eyes,
+As he stands by them now.
+
+With every move he makes,
+His heart beats strong inside.
+A joyful smile spreads wide,
+As this man's happiness is shown.",0.22874999046325684,1.0,8,0.0,0.7142857142857143,1.0,0.5142857142857142
+fine-tuned,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"He smiles wide as he stands,
+In the crowd, his face pure.
+A vibrant display of colors,
+A message of hope that can't be found.
+
+The posters say something sweet,
+Of peace, love, and kindness we'll share.
+With each face, they're telling stories new,
+Of unity, acceptance, and all we're made to be.",0.20236369967460632,1.0,8,0.0,0.42857142857142855,0.5,0.2785714285714286
+fine-tuned,happy/f760cf6d-6721-4805-add3-fc8295da3a77.jpg,a man wearing a face mask stands in front of a poster,happy,"A man's face is shielded from the sun,
+In a mask he stands proudly tall.
+His eyes reflect joyous smiles wide,
+As posters paint his heart with light.
+
+The world outside seems darkened away,
+But here he finds peace in his place.
+With hands clasped tight around an image,
+He dances happily through life's day-by-day.",0.22159472107887268,1.0,8,0.0,0.7142857142857143,0.5,0.36428571428571427
+fine-tuned,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"On the branches where shadows play,
+A flower blooms in sorrow's embrace.
+Its petals blackened by time's cold breath,
+The light within fades like smoke.
+
+In shades of grey that never change,
+It stands silent under moonless skies.
+Each petal a tear that falls from her eye,
+As she waits for tomorrow to come.",0.24571776390075684,1.0,8,0.0,0.4,1.0,0.42
+fine-tuned,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"On this day of sadness,
+The yellow flower fell from its bed.
+Its petals lost their color,
+As if the world had changed too much.
+
+But still it stood tall, with pride,
+In every leaf's embrace tight.
+For in every drop that falls,
+It carries love, not fear.",0.2759229242801666,1.0,8,0.0,0.4,0.5,0.27
+fine-tuned,sad/0b1f1d65-48fd-4bc8-a18b-5fd8df0d992b.jpg,a yellow flower with a black center on it ' s stem,sad,"Yellow blooms fall from branches high,
+Black centers on their stems they show.
+The sun's warmth fades as leaves fall apart,
+A sorrowful sight, like an old friend.
+
+In shadows where moonlight dances so sweetly,
+I sit by the fading light, lost inside.
+Each petal holds memories of pasts,
+As I wait for tomorrow to come again.",0.2769315838813782,1.0,8,0.0,0.8,1.0,0.54
+fine-tuned,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"The wind whispers through the ivy,
+Like secrets hidden deep within.
+The walls seem to hold memories too old,
+As if they've seen better days.
+
+In shadows where once there was light,
+Lies an old diary written with care.
+Each page filled with tales untold,
+Of love lost and life's longest journey.",0.19245010614395142,1.0,8,0.0,0.0,0.5,0.15
+fine-tuned,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"The rustling leaves whisper secrets hidden,
+In a corner of the world where no one has seen.
+The broken windows mirror memories lost,
+And shadows play across the walls they've been.
+
+A ghostly figure stands in moonlight cold,
+Its face obscured by time's embrace.
+Each step leads to darkness deep within,
+As this place holds memories too old.",0.2178783416748047,1.0,8,0.0,0.0,1.0,0.3
+fine-tuned,sad/0fe40134-6109-43f9-8509-870c93de8ebd.jpg,an abandoned house in the middle of nowhere,sad,"In silent shadowed land,
+An old house lies forgotten.
+The windows seem to speak softly,
+As moonlight filters through their cracks.
+
+Each step brings sorrow deep within,
+A echo of lost loves we've left behind.
+The walls stand still under winter's gaze,
+Silence fills the air where dreams once thrived.",0.283186137676239,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"The streets stretch out wide,
+Where once they met with life's light.
+Now it rains down like tears,
+On faces that cry without saying.
+
+The windows shatter under the weight,
+Of falling water that makes us feel so small.
+But there's still hope within each one,
+As long as we stay strong beneath it.",0.267195463180542,1.0,8,0.0,0.5454545454545454,0.5,0.013636363636363613
+fine-tuned,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"City streets fill with grey rain,
+As days go by like shadows deep.
+The windows bleed tears from our eyes,
+As storms pound against the roof.
+
+The air is thick with sorrowful sound,
+A cinderella tale of lost love.
+In this rainy day, all seems dark,
+For life's burdens weigh heavier than weights.",0.2756689190864563,1.0,8,0.0,1.0,1.0,0.6
+fine-tuned,sad/53ec8895-a59a-4309-b4e1-b96af60bbf07.jpg,rain in the city - rain in the city - rain in the city - rain in the city - rain in the city - rain in the,sad,"Raindrops fall from high up,
+In城市的街道上飘扬。
+雨点打在玻璃窗上,
+敲打着我的心，如泣如诉。
+
+城市里的空气湿润而热，
+人们匆匆忙忙，没有时间停下来。
+雨丝轻轻地拂过脸庞，
+像是城市灵魂的一部分，无常。",0.2658912241458893,1.0,8,0.0,0.5454545454545454,0.0,0.1636363636363636
+fine-tuned,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"On the side of the road where cars drive,
+Lies a pile of petals they've lost.
+Each petal holds memories old and new,
+As if time had played a cruel game.
+
+The wind weaves through their soft green strands,
+A reminder of summer's end.
+But now all that remains is sorrow,
+As if fate has set them free.",0.29192814230918884,1.0,8,0.0,0.75,1.0,0.5249999999999999
+fine-tuned,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"On the side of the road where cars go,
+Lies an empty place without any color.
+The sun shines down gently from above,
+But there's no life to make it beautiful.
+
+In the weeds that grow around it free,
+There're only dry patches and dead leaves.
+Each flower has lost its bloom now,
+Its petals falling like raindrops fall.",0.20463456213474274,1.0,8,0.0,0.75,1.0,0.22499999999999992
+fine-tuned,sad/8666083e-c031-476f-aab4-8a0b01a1c5f8.jpg,a pile of flowers on the side of a road,sad,"On the roadside, in weeds they stand,
+A cluster of reds, pinks, and yellows.
+Each petal falls with a sighing sound,
+As it waits for love to bloom once more.
+
+The wind whispers through each leafy bough,
+Its touch like an old friend's embrace.
+But now all is still, without any one,
+Just as life's truest beauty fades away.",0.22619813680648804,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"Bikes sit like lost souls,
+Cars drive away without any care.
+The road is empty save for these few,
+And shadows dance under the moonlight.
+
+In silence they drift by,
+Their movements soft as dreams.
+Each one tells their own story untold,
+As life goes on without much regard.",0.19951140880584717,1.0,8,0.0,0.3333333333333333,1.0,0.39999999999999997
+fine-tuned,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"Bikes and cars sit still,
+On the sidewalk they go without saying.
+The light from their heads fades away,
+As night descends and time does play.
+
+They hold their positions tight,
+But sadness fills each one's heart.
+Like lost souls wandering through space,
+These vehicles drift like shadows across the street.",0.20600125193595886,1.0,8,0.25,0.5,1.0,0.55
+fine-tuned,sad/a00382e3-df87-423a-aa2a-59eabb3208dc.jpg,a street lined with parked bikes and parked cars,sad,"The roads stretch wide as day,
+Bikes and cars drive past without pause.
+Silence fills the air around us,
+As this time of day seems to go by.
+
+The wind whispers secrets from far away,
+Dancing over the empty spaces we stand in.
+Each bike wheels spin, each car drives along,
+A silent world where life has stopped for now.",0.22706961631774902,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"The clouds roll high in the air,
+Like dark clouds that might rain.
+The sky turns a shade of grey,
+And everything looks lost.
+
+The wind picks up its weak breath,
+As if to make things fair.
+The stars twinkle like lost souls,
+In skies that we can't see.",0.23352797329425812,1.0,8,0.0,1.0,1.0,0.6
+fine-tuned,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"The clouds drift like shadows through my sight,
+Their shapes mysterious but sometimes sweet.
+The wind whispers through the trees that sway,
+As if they're telling tales yet to be told.
+
+The raindrops tap against the windowpane wide,
+But it's not the coolness I seek.
+In this moment of sorrow, all I see is dark,
+And tears welling up in my eyes do run.",0.1919894814491272,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,sad/d4e58b98-98b3-4f59-a012-8766a4e49c2f.jpg,the sky is cloudy,sad,"The clouds dance on high,
+Their shapes as if they're planning.
+The skies seem dark and gloomy,
+As raindrops fall, but it's still too late.
+
+The wind rustles through my hair,
+It carries away my sorrowful sighs.
+In this cloudless day of old,
+I hope tomorrow will be fair.",0.24501897394657135,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"In the heart of the woods where shadows play,
+Lies a small cottage, its windows low and grey.
+The leaves rustle softly underfoot's touch,
+As winter sets in, making everything new.
+
+Silent lives here, under moonlight’s glow,
+A place that once was, now lost to all.
+Each step is a dance with the dark and cold air,
+In this cozy haven from which there is no escape.",0.2145780771970749,1.0,8,0.25,0.25,1.0,0.475
+fine-tuned,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"In the heart of the woods where the trees stand,
+Lies a tiny cabin nestled by the stream.
+The moonlight filters through its windows wide,
+A shadow dances around like a dreamy ghost.
+
+Silence reigns over this little place alone,
+Each night a whisper from the darkness weaves.
+The leaves rustle softly under her feet,
+As she sits by the fire, holding her heart in hand.",0.21690639853477478,1.0,8,0.0,0.0,0.5,0.15
+fine-tuned,sad/e731cc85-d109-4eb2-ade3-d6e3fb465b19.jpg,a small house in the middle of a forest,sad,"In the dense woods where shadows play,
+Lies a little cabin, old and dark.
+The windows paneled with age's grace,
+Reflects memories of days gone by.
+
+Under moonlight it casts dim shadows,
+As fear takes hold of its soul.
+Inside lies silence, cold as ice,
+And dreams that never can be.",0.2345713973045349,1.0,8,0.0,0.0,1.0,0.3
+fine-tuned,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In the misty grove where shadows play,
+The trees stand tall, their leaves whisper.
+Rock faces echo softly above,
+As if nature's own silent symphony.
+
+Beneath the deep blue sky they lie,
+Where wind whispers through ancient boughs.
+Each leaf falls like silver drops from skies high,
+In this tranquil forest we find our peace.",0.2943591773509979,1.0,8,0.25,0.8,1.0,0.6399999999999999
+fine-tuned,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In misty forests where shadows play,
+Trees whisper secrets under the sky.
+Rocks echo their stories through the air,
+As light dances on the cold, cool air.
+
+The breeze rustles softly through the leaves,
+Frosts gently at your feet when you stand still.
+Silence reigns where once there was noise,
+But now only shadows play in the dark.",0.28225111961364746,1.0,8,0.0,0.8,1.0,0.54
+fine-tuned,calm/3bb84303-a964-4023-a265-a8407d1175e5.jpg,a foggy forest with trees and rocks in the fore,calm,"In the misty woods where shadows play,
+Trees whisper under cool moonlight.
+Rocks stand silent as old hands,
+Their roots deep beneath the earth.
+
+Each leaf rustles softly like music,
+As dawn breaks over this serene land.
+Calm breathes through each cloud's edge,
+Nature's peace flows freely without care.",0.3083271384239197,1.0,8,0.0,0.4,1.0,0.42
+fine-tuned,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two little ducks stand on the shore,
+Their feathers shimmering like dew.
+They jump from one side to another,
+In peace, their hearts full of love.
+
+The water is cool as an angel's breath,
+And they swim with all their might.
+Their backs face each other gently,
+As if in prayer, forever safe.",0.3428525924682617,1.0,8,0.0,0.75,0.5,0.375
+fine-tuned,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two small birds swim side by side,
+In peaceful waters they lie.
+Their wings brush against each other's,
+As they float like tiny fish.
+
+The water licks their feathers clean,
+With soft murmurs that seem to say,
+ ""This is your home now."" They're free,
+Bathing in the clear blue light.",0.29334932565689087,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,calm/517c98b4-7edc-4d10-a51c-99f0bfbeea3a.jpg,two baby ducks are swimming in the water,calm,"Two tiny wings spread wide apart,
+In the cool breeze they dance.
+Their heads touch the shallow shore,
+As they swam side by side all day.
+
+The water is clear and cold under their feet,
+With reflections of colorful fish.
+They frolic among the floating leaves,
+In a peaceful乐园where they can play without fear.",0.29101356863975525,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"The clouds dance over the misty slope,
+As light touches the water's surface.
+Birds sing in harmony with the breeze,
+In this serene scene we find our place.
+
+The shadows stretch long and wide apart,
+Nature's artistry on display.
+Peace fills our hearts as we sit here,
+Underneath the big blue sky.",0.24413546919822693,1.0,8,0.0,0.0,1.0,0.3
+fine-tuned,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"In the vast expanse where trees meet sky,
+Lakes lie quiet as they sleep.
+Their blue depths deep and dark,
+Underneath a moon that winks.
+
+The water whispers soft tales untold,
+As clouds drift gently by.
+Birds sing sweet melodies high,
+In fields where grass grows tall.",0.2374502569437027,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,calm/62829f8c-a94d-43ba-9a20-00e6a1442448.jpg,a view of a lake in the scottish countryside,calm,"In the misty Scottish hills we stand,
+Where lakes mirror our thoughts so clear.
+The sunlight plays on the calm water,
+A reflection of peace that never ends.
+
+The trees whisper secrets underfoot,
+To us they seem as still as the sea.
+As moonlight falls upon the shore,
+It makes all worries fade away.",0.26763275265693665,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"In the misty lowlands where shadows play,
+A moose stands silent, as the sun goes down.
+Its fur glints like gold under the light,
+As it waits, lost among the trees that sway.
+
+The wind howls through its thick coat's skin,
+Borrowing strength from the cold breeze.
+It looks out over the vast expanse,
+With eyes that fixate on every step.",0.2804707884788513,1.0,8,0.0,0.25,0.5,0.22499999999999998
+fine-tuned,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"The moose stands tall in the mist,
+Its fur shimmering under the light.
+In the distance, trees whisper secrets,
+As the fog closes in like a storm.
+
+Its eyes follow every step it takes,
+Underneath the vast blue sky.
+With each breath, it dances through the air,
+In this surreal world of silence and grace.",0.327024906873703,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,calm/6d78eb1b-7ecb-4c52-bac6-3e2e836df860.jpg,a moose in the fog on a foggy day,calm,"Under the misty skies,
+The moose stands tall, silent.
+Its head moves gently as it looks,
+Through thick fog into the night.
+
+The wind rustles through its hair,
+As if in sleep, lost from sight.
+But then suddenly, its eyes light up,
+With excitement that's pure delight.",0.30876749753952026,1.0,8,0.25,0.5,0.0,0.25
+fine-tuned,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"Beneath the ocean's golden light,
+Birds' songs fill the air weeping.
+Silent seas mirror sky's blue,
+As sun sets low, skies turn deep.
+
+Doves hop over cliffs high,
+Their wings fluttering softly free.
+Infinite hues dance together,
+On this serene day of twilight.",0.2712264955043793,1.0,8,0.0,0.25,0.5,0.22499999999999998
+fine-tuned,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"Beneath the sea's deep blue glow,
+The shore whispers to the sea.
+Wings flutter as birds soar high,
+On the breeze they dance.
+
+Leaves rustle softly in the breeze,
+As sunlight dances through their leaves.
+Dust blows like whispers from afar,
+And shadows stretch far beyond our sight.",0.24321076273918152,1.0,8,0.0,0.25,0.5,0.22499999999999998
+fine-tuned,calm/9a9fb333-8f7a-49e0-af6e-cce3850a23ba.jpg,a beach at sunset with birds on the sand,calm,"On the horizon, the sky is dim,
+Birds sing in harmony sweet.
+The waves crash against the shore,
+Inlaid with gold and silver.
+
+Silent as death whispers through trees,
+Yet all is still, serene and true.
+For here lies peace where nature does lie,
+In every moment, forevermore.",0.2578970491886139,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"The windows whisper secrets hidden deep,
+In a corner where light does not shine.
+Leaves dance under moonlight's soft touch,
+Like dreams that fade into silence.
+
+Beneath the tiles, a garden grows anew,
+A soothing melody played without strain.
+Each plant tells its own story untold,
+In this tranquil space, peace is found.",0.20273107290267944,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"The walls stand tall like mountains high,
+A cozy little retreat within.
+Small pots hold blooms that bloom so true,
+In this corner where time seems to stay.
+
+Leaves whisper softly under the light,
+Of bugs that sing their sweetest song.
+Blossoms stretch out from roots deep beneath,
+In peace they wait, watching the world go by.",0.19492432475090027,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,calm/d66feef9-0799-4f18-bba0-9f263dd9cc8d.jpg,a small garden in the middle of a building,calm,"In the heart of a tall building lies,
+A garden that's as peaceful as a dream.
+The soil is rich with flowers that bloom,
+Their petals like silken lace, they dance.
+
+Under the shade of the trees we stand,
+We breathe in fresh air that smells so new.
+The sounds of birdsong fill our ears,
+As we reflect on life’s sweetmost day.",0.21450160443782806,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"The crowd dances with joyous cheer,
+Their faces lights up like a fire.
+Hats flutter as they move in place,
+Each step is an affirmation of their love.
+
+Balls bounce around with delight,
+Like tiny flags that dance and sway.
+The music plays loud and clear,
+As everyone joins in the lively party!",0.2774989604949951,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"People laugh as they twirl,
+In sync with music's beat.
+Their faces light up with joy,
+As the night air washes over them.
+
+The lights flicker under their feet,
+A colorful rainbow dance through town.
+They step together, side by side,
+In celebration where dreams come true.",0.2659795880317688,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,energetic/00aea4f8-2421-4d42-b124-60cc6bb9222a.jpg,a group of people dancing at a party,energetic,"Dancers step out into the light,
+Their eyes spark with passion's delight.
+The music fills the air with warmth,
+As they twirl, dance, and sing their way.
+
+The crowd around them cheers high,
+In joyous celebration's heart they keep.
+Each move is a new story told,
+Of love, laughter, and memories shared.",0.21152620017528534,1.0,8,0.25,0.25,0.5,0.32499999999999996
+fine-tuned,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"The skateboard wheels spin like a dance,
+Young man twirls in joyous cheer.
+He skates through hills and down valleys,
+With excitement alight that's bold.
+
+His feet take flight, his hands fly free,
+Down the street they zoom without fear.
+In this moment pure happiness runs free,
+For he is alive, with all his heart.",0.2571146488189697,1.0,8,0.0,0.6,1.0,0.48
+fine-tuned,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"The wind whispers through his hair,
+As he flies across the street with ease.
+His knees give way under his weight,
+And the world turns into a dance.
+
+He flips over the rail with grace,
+And zooms down the ramp like a ballerina.
+Each jump is new, each turn an adventure,
+In this world where speed meets delight.",0.2582108974456787,1.0,8,0.0,0.0,1.0,0.3
+fine-tuned,energetic/0b15a3c9-6167-44da-a20f-410799003806.jpg,a young man doing a trick on a skateboard,energetic,"He flips across the street in joy,
+His skateboard wheels spin wild and free.
+The wind blows through his hair,
+As he skates down like a champion.
+
+With each bounce high and fast,
+He lands softly on his feet again.
+He jumps over obstacles tight,
+In this new adventure all he wants.",0.27370354533195496,1.0,8,0.0,0.2,1.0,0.36
+fine-tuned,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"Fireworks burst into sight,
+In the night's deep blue expanse.
+The townsfolk gather around,
+As if to share an exciting day.
+
+The lights twinkle like diamonds,
+On rooftops and walls they gleam.
+The wind dances through their hair,
+As if it were nature's own song.",0.2926681935787201,1.0,8,0.0,0.75,0.5,0.375
+fine-tuned,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"The colors flash like stars above,
+In the darkness they dance, wild and free.
+A symphony of light that dances,
+A burst of cheer from the town below.
+
+The moon casts silvery shadows wide,
+As fireworks fill the air with delight.
+They twirl and twiggle, like tiny birds,
+In joyous play, they share their thrill.",0.26308920979499817,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,energetic/279a1db5-3efd-46b8-96e2-d3ad2b3d0505.jpg,fireworks in the sky over a town at night,energetic,"Fireworks burst through the air,
+In colors vibrant and bold.
+The moon shines bright as its light,
+A guiding star for all to see.
+
+The streets fill with an electrifying cheer,
+As if the very earth itself were alive.
+The townsfolk stand together in joy,
+Underneath the twinkling lights that shine.",0.2935604155063629,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"The stars align above our heads,
+In twinkling lights they dance through the air.
+Crisp breeze whispers softly through their hair,
+As firecrackers burst into flame.
+
+The moon casts eerie shadows across the sky,
+A darkening world below like an old ghost.
+Each spark creates a new dream to be told,
+In this moment where time itself seems to stop.",0.234274223446846,1.0,8,0.0,0.5,1.0,0.44999999999999996
+fine-tuned,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"In the silent glow of dawn's breath,
+Fireworks burst like stars from space.
+The city lights turn into spears,
+Whispering secrets to the night.
+
+Each spark sparks another's delight,
+As firecrackers ring out their joy.
+The moonlit streetlights shine brightly,
+Underneath this beautiful night.",0.275911420583725,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,energetic/2a936d1a-967d-4c8e-b04b-63554c23fbd8.jpg,fireworks in the night sky photo,energetic,"Fireworks twinkle above,
+In hues of red, gold, and blue.
+They flash like diamonds lit up,
+As moonlit nights begin to glow.
+
+The air is thick with magic gas,
+With colors that dance and sway.
+A symphony of light that's new,
+A celebration for all who see it now.",0.2935960292816162,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"The soundwaves echo from the stage,
+People dance with joy, hearts alight.
+They sing high into the air,
+As bands play their favorite tunes.
+
+The lights flicker on in delight,
+Each attendee feels their spirit lightening up.
+The crowd cheers as if it could never be still,
+For this is a moment of pure ecstasy.",0.2510778605937958,1.0,8,0.0,0.5,0.5,0.3
+fine-tuned,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"People gather in one place,
+A symphony fills their ears.
+Their eyes widen as the music plays,
+As one heart beats out its thrill.
+
+The soundwaves ripple through their bodies tight,
+Like waves crashing into shore.
+Each person takes part with joyous cheer,
+In this vibrant concert we share our care.",0.2686218023300171,1.0,8,0.0,0.5,0.0,0.15
+fine-tuned,energetic/9244c67d-394e-4ff0-bb51-57b399fcb76b.jpg,a large crowd of people at a concert,energetic,"People gather around the stage,
+Their faces expressive with delight.
+A symphony plays, their hearts do beat fast,
+As music flows through the air.
+
+The lights dance as if in joy,
+With colors that paint the night.
+They move together, side by side,
+In this moment where they belong.",0.22441646456718445,1.0,8,0.0,0.25,1.0,0.375
+fine-tuned,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"A man stands by a leash,
+His dog wagging tails high.
+He walks confidently as usual,
+In this park where peace lies.
+
+The wind carries his scent so clear,
+His laughter echoes softly.
+As he pulls the leash tight,
+The dog follows like an eager teen.",0.19108888506889343,1.0,8,0.0,0.6,0.0,0.18
+fine-tuned,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"On a chilly morning in winter's embrace,
+A man stands proudly at his desk.
+With an expression of joy so grand,
+He holds up his canine friend tight.
+
+They walk together, as if the world were small,
+In this moment where time seems to be still.
+Their bond is strong, like steel tight,
+But now they dance side by side, free.",0.22941747307777405,1.0,8,0.0,0.2,0.5,0.21
+fine-tuned,energetic/96aa65b5-9c09-408b-9442-c49f54fa7589.jpg,a bronze statue of a man with a dog on a leash,energetic,"Man with dog on leashed heel,
+Treading confidently through the land.
+Hips pressed tight against the ground,
+Leash clutched close around his neck.
+
+Gentle breeze whispers softly,
+As they walk side by side in peace.
+Together they move like music's tune,
+A sight to behold, a true delight.",0.21785184741020203,1.0,8,0.0,0.6,0.0,0.18
+fine-tuned,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"The air is alive with color,
+As fireworks burst into play.
+The horizon lights up like a dream,
+In white and gold, they dance.
+
+A shout from afar sends them flying,
+Like leaves off a tree's branch.
+The sound is loud but serene,
+A symphony of joy that lasts forever.",0.2657414972782135,1.0,8,0.0,0.3333333333333333,1.0,0.39999999999999997
+fine-tuned,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"Fireworks twinkle above,
+Like diamonds thrown into the sky.
+The ocean mirrors their beauty,
+As night turns into twilight's light.
+
+Stars twirl around like dreams,
+Their glow filling the air with pride.
+The beach becomes a giant stage,
+Where music is made from fire's delight.",0.2809907793998718,1.0,8,0.0,1.0,0.5,0.44999999999999996
+fine-tuned,energetic/d86317b6-593b-4fea-b16e-f7e6f665d3aa.jpg,fireworks on the beach at night,energetic,"The sky is painted with colors rare,
+Fireworks burst into sight, a show.
+Crispy sparks dance across the water,
+With sounds that echo far away.
+
+Beaches buzz with life as night descends,
+Bells sound like secrets hidden deep.
+Children run wild, laughing loud and tight,
+In the air of this magical day.",0.27757176756858826,1.0,8,0.0,1.0,1.0,0.6

@@ -1,0 +1,15 @@
+{
+  "base": "Qwen/Qwen2.5-0.5B-Instruct",
+  "train_pairs": 270,
+  "val_pairs": 19,
+  "epochs": 3,
+  "batch": 8,
+  "micro_batch": 4,
+  "grad_accum": 2,
+  "lr": 0.0002,
+  "lora_r": 16,
+  "trainable_params": 8798208,
+  "total_params": 502830976,
+  "train_seconds": 349.3,
+  "device": "mps"
+}

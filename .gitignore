@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+data/*/
+models/*.joblib
+models/*.npz
+.ipynb_checkpoints/
+colab_bundle.zip
+colab_results.zip
+.DS_Store
+*.pyc
+.claude/

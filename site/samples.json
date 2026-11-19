@@ -1,0 +1,50 @@
+[
+  {
+    "image": "samples/happy.jpg",
+    "caption": "a group of people walking across a street holding balloons",
+    "mood": "happy",
+    "confidence": 1.0,
+    "poem": "On the sidewalk where laughter runs high,\nPeople stand together in joyous dance.\nWith balloons they wave like flags do,\nAs if to catch the sun's gentle ray.\n\nEach hand holds a bright new color,\nA sight that makes all hearts beat fast.\nThe air is filled with cheerful cheer,\nFor this moment is truly special.",
+    "timing": {
+      "caption": 1.33,
+      "mood": 0.21,
+      "poem": 5.79
+    }
+  },
+  {
+    "image": "samples/sad.jpg",
+    "caption": "an apartment building with a tree in front of it",
+    "mood": "sad",
+    "confidence": 1.0,
+    "poem": "A tree stands tall beside your home,\nIts branches sway in the breeze so light.\nThe sunlight filters through its leaves,\nCreating soft shadows that seem too small.\n\nThe air is filled with sadness within,\nAs memories of old times fade away.\nEach step brings new worries and fears,\nBut in this quiet place, everything feels too big.",
+    "timing": {
+      "caption": 0.99,
+      "mood": 0.15,
+      "poem": 4.88
+    }
+  },
+  {
+    "image": "samples/calm.jpg",
+    "caption": "the sun is setting over the ocean at sunset",
+    "mood": "calm",
+    "confidence": 1.0,
+    "poem": "As the last light from the east falls,\nThe ocean sleeps beneath its deep blue shade.\nThe waves caress the shore as they go,\nTheir laughter mingling with the evening's call.\n\nThe sky turns to gold under the twilight glow,\nThe stars peeking out like tiny diamonds.\nThe sea breeze whispers soft secrets,\nTo any who listen, for it\u2019s time to say goodbye.",
+    "timing": {
+      "caption": 1.04,
+      "mood": 0.12,
+      "poem": 6.25
+    }
+  },
+  {
+    "image": "samples/energetic.jpg",
+    "caption": "a group of people sitting on the grass",
+    "mood": "energetic",
+    "confidence": 1.0,
+    "poem": "People stand tall and sway,\nOn the green lawn they dance.\nTheir laughter echoes high,\nAs nature's music they play.\n\nThey move like leaves in breeze,\nEach step a new discovery.\nThe air is alive with life's delight,\nIn this peaceful moment we'll stay.",
+    "timing": {
+      "caption": 0.89,
+      "mood": 0.16,
+      "poem": 5.18
+    }
+  }
+]
