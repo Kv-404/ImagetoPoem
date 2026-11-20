@@ -8,7 +8,7 @@ site/data.json comes from `python -m src.site_data`. It is inlined into the page
 as <script type="application/json" id="data">, so index.html works on file://
 and when served by app.py (http://127.0.0.1:7860/). All charts are drawn in the
 browser as inline SVG with plain JavaScript (no libraries, no CDN).
-Fonts (IBM Plex) are self-hosted in site/fonts/ so the page works offline.
+Fonts (Geist + IBM Plex Serif) are self-hosted in site/fonts/ so the page works offline.
 
 Design: monochrome and editorial. Ink = "trained by me / fine-tuned",
 mid grey = "pretrained / base". Mood colours only where the mood itself matters.
@@ -22,12 +22,12 @@ from pathlib import Path
 SITE = Path(__file__).resolve().parent
 
 # ---------------------------------------------------------------- fonts
-FONTS = [  # (family, weight, style, file in site/fonts/)
-    ("IBM Plex Sans", 400, "normal", "ibm-plex-sans-latin-400-normal.woff2"),
-    ("IBM Plex Sans", 500, "normal", "ibm-plex-sans-latin-500-normal.woff2"),
-    ("IBM Plex Sans", 600, "normal", "ibm-plex-sans-latin-600-normal.woff2"),
-    ("IBM Plex Mono", 400, "normal", "ibm-plex-mono-latin-400-normal.woff2"),
-    ("IBM Plex Mono", 500, "normal", "ibm-plex-mono-latin-500-normal.woff2"),
+FONTS = [  # (family, weight, style, file in site/fonts/). Geist = same font as my portfolio (OFL).
+    ("Geist", 400, "normal", "geist-400.woff2"),
+    ("Geist", 500, "normal", "geist-500.woff2"),
+    ("Geist", 600, "normal", "geist-600.woff2"),
+    ("Geist Mono", 400, "normal", "geist-mono-400.woff2"),
+    ("Geist Mono", 500, "normal", "geist-mono-500.woff2"),
     ("IBM Plex Serif", 400, "normal", "ibm-plex-serif-latin-400-normal.woff2"),
     ("IBM Plex Serif", 400, "italic", "ibm-plex-serif-latin-400-italic.woff2"),
     ("IBM Plex Serif", 600, "normal", "ibm-plex-serif-latin-600-normal.woff2"),
@@ -82,21 +82,26 @@ GLOSSARY = {
 
 # ---------------------------------------------------------------- CSS
 DARK = """
-  --paper:#0c0a09;--surface:#1c1917;--line:#292524;--ink:#fafaf9;--ink-2:#d6d3d1;--muted:#a8a29e;
-  --soft:#171412;--hover:#231f1d;--base:#57534e;--tuned:#fafaf9;--grid:#292524;--on-ink:#0c0a09;
+  --paper:#000000;--surface:#0d0d0e;--line:rgba(255,255,255,.09);--ink:#f5f5f7;--ink-2:#d2d2d7;--muted:#a1a1a6;
+  --soft:#161617;--hover:#1c1c1e;--base:#48484a;--grid:rgba(255,255,255,.07);--on-ink:#000000;
+  --glass:rgba(22,22,23,.62);--glass-line:rgba(255,255,255,.08);
+  --shadow:0 1px 0 rgba(255,255,255,.04) inset,0 24px 64px -24px rgba(0,0,0,.8);
   --happy:#c98500;--sad:#9085e9;--calm:#199e70;--energetic:#e34948;
-  --accent:#34d399;--on-accent:#052e1f;--accent-soft:rgba(52,211,153,.10);--tuned:#34d399;
+  --accent:#f5f5f7;--on-accent:#000000;--accent-soft:rgba(255,255,255,.06);--tuned:#f5f5f7;
   color-scheme:dark;"""
 
 CSS = r"""
 /*FONTS*/
 :root{
-  --paper:#fafaf9;--surface:#ffffff;--line:#e7e5e4;--ink:#1c1917;--ink-2:#57534e;--muted:#78716c;
-  --soft:#f5f5f4;--hover:#f5f5f4;--base:#a8a29e;--tuned:#1c1917;--grid:#eeeceb;--on-ink:#fafaf9;
+  --paper:#fbfbfd;--surface:#ffffff;--line:#e5e5ea;--ink:#1d1d1f;--ink-2:#424245;--muted:#6e6e73;
+  --soft:#f5f5f7;--hover:#f0f0f2;--base:#c7c7cc;--grid:#ececf0;--on-ink:#fbfbfd;
+  --glass:rgba(251,251,253,.72);--glass-line:rgba(29,29,31,.08);
+  --shadow:0 1px 1px rgba(0,0,0,.03),0 8px 24px -8px rgba(0,0,0,.08),0 24px 64px -24px rgba(0,0,0,.12);
   --happy:#eda100;--sad:#6250d6;--calm:#1baf7a;--energetic:#e34948;
-  --accent:#047857;--on-accent:#ffffff;--accent-soft:rgba(4,120,87,.08);--tuned:#047857;
-  --sans:"IBM Plex Sans",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  --accent:#1d1d1f;--on-accent:#fbfbfd;--accent-soft:rgba(29,29,31,.05);--tuned:#1d1d1f;
+  --ease:cubic-bezier(.16,1,.3,1);
+  --sans:"Geist",-apple-system,BlinkMacSystemFont,"SF Pro Display",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  --mono:"Geist Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
   --serif:"IBM Plex Serif",Georgia,"Times New Roman",serif;
   --top:56px;
   color-scheme:light;
@@ -607,6 +612,136 @@ h2{font-size:40px;letter-spacing:-.025em}
 .gcard{border-top:4px solid var(--gm,var(--line))}
 .compare .col.tuned{border-top-color:var(--accent)}
 .panel,figure.fig,.mcard,.ccard,.hero-r{box-shadow:inset 0 1px 0 rgba(255,255,255,.04)}
+
+/* ================= portfolio skin (matches my portfolio site) =================
+   Strict monochrome, Apple greys, true black in dark. Geist type, big tight
+   headlines, mono uppercase labels, floating glass nav, rounded soft cards,
+   pill buttons. Colour is kept only for data: the four moods and red = got worse. */
+body{font-size:16.5px;letter-spacing:-.011em;font-feature-settings:"ss01","cv11";text-rendering:optimizeLegibility}
+::selection{background:var(--ink);color:var(--paper)}
+html{scrollbar-width:thin;scrollbar-color:var(--base) transparent}
+:focus-visible{outline:3px solid color-mix(in srgb,var(--ink) 45%,transparent);outline-offset:2px;border-radius:8px}
+
+/* floating glass pill nav */
+:root{--top:76px}
+.topbar{position:sticky;top:12px;background:none;border:0;padding:0 16px;height:0;overflow:visible}
+.topbar-in{max-width:1180px;height:52px;padding:0 6px 0 22px;border-radius:999px;background:var(--glass);border:1px solid var(--glass-line);
+  -webkit-backdrop-filter:saturate(180%) blur(20px);backdrop-filter:saturate(180%) blur(20px);box-shadow:var(--shadow);gap:8px}
+.brand{font-size:15px;letter-spacing:-.02em}
+.brand::after{content:".";color:var(--muted)}
+.toc{margin-left:4px}
+.toc ol{gap:0}
+.toc a{height:34px;padding:0 11px;border:0;border-radius:999px;font-size:13px;color:var(--muted);transition:color .3s var(--ease),background-color .3s var(--ease)}
+.toc a:hover{background:var(--hover);color:var(--ink)}
+.toc a[aria-current="true"]{background:var(--hover);color:var(--ink);font-weight:500;border:0}
+.status{font:500 11px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.status.live .dot,.status .dot{width:6px;height:6px;border:0;background:var(--muted)}
+.status.live .dot{background:var(--ink)}
+.icon-btn{width:38px;height:38px;border-radius:999px;border:0;background:transparent}
+.icon-btn:hover{background:var(--hover)}
+main{padding-top:52px}
+@media (max-width:1100px){
+  :root{--top:116px}
+  .topbar-in{border-radius:24px;padding:6px 6px 4px 18px;height:auto}
+  .topbar-in .toc{margin:2px -4px 0}
+  .toc a{height:34px}
+  main{padding-top:96px}
+}
+
+/* section masthead: 02 — LABEL on a hairline, then a big display title */
+section{padding-top:120px}
+section + section{margin-top:0;border-top:0}
+.sec-head{display:block;margin:0 0 32px}
+.eyebrow{display:flex;align-items:center;gap:12px;margin:0 0 22px;padding-top:16px;border-top:1px solid var(--line);
+  font:500 11px var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--muted);max-width:none}
+.eyebrow i{display:block;width:24px;height:1px;background:var(--line)}
+.sec-num{color:var(--ink);font:500 11px var(--mono);min-width:0}
+h1,h2{font-weight:600;letter-spacing:-.045em;line-height:.98}
+h2{font-size:clamp(30px,3.6vw,48px);max-width:22ch;text-wrap:balance}
+h2::after{content:".";color:var(--muted)}
+h3{letter-spacing:-.025em}
+.sec-head .kick{margin:16px 0 0;font-size:17px;line-height:1.6;color:var(--muted);max-width:60ch;text-wrap:pretty}
+.lab{font:500 11px/1.6 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.lead{color:var(--muted)}
+@media (max-width:640px){ section{padding-top:80px} h2{font-size:32px} }
+
+/* hero */
+.hero{padding-top:56px}
+.hero-l > .lab:first-child{display:flex;align-items:center;gap:12px}
+.hero-l > .lab:first-child::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--ink);box-shadow:0 0 0 0 color-mix(in srgb,var(--ink) 40%,transparent);animation:ping 2.4s var(--ease) infinite}
+@keyframes ping{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--ink) 40%,transparent)}80%,100%{box-shadow:0 0 0 8px transparent}}
+.hero h1{font-size:clamp(44px,5.6vw,80px);margin:22px 0 18px}
+.hero h1 .dim{color:var(--muted)}
+.hero-grid.studio{border:0;background:none;box-shadow:none;border-radius:0;padding:0}
+.hero-r .example{border:0;box-shadow:none;background:none}
+#dropHelp,.picks .lab,.result .lab,.r-head .lab{text-transform:none;letter-spacing:0;font-size:12.5px}
+.hero .lead{font-size:18px;line-height:1.6;max-width:44ch}
+.kpis{border:0;border-top:1px solid var(--line);margin:56px 0 0}
+.kpi{padding:22px 24px 0 0}
+.kpi + .kpi{border-left:0;padding-left:0}
+.kpi .v{font-size:clamp(30px,3.4vw,44px);font-weight:600;letter-spacing:-.045em;color:var(--ink)}
+.kpi .v small{color:var(--muted);font-weight:400}
+.kpi .k{color:var(--muted);font-size:14px}
+.kpi .s{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase}
+@media (max-width:720px){ .kpi:nth-child(n+3){border-top:0} .kpi{padding-top:18px} }
+
+/* cards: rounded, soft, one hairline */
+.panel,figure.fig,.mcard,.ccard,.hero-r,.gcard,details.more,.offline{border-radius:20px;border:1px solid var(--line);background:var(--surface);box-shadow:var(--shadow)}
+figure.fig,.panel{padding:24px}
+.hero-r{padding:24px;border-left:1px solid var(--line)}
+.mcard,.mcard.pre,.mcard:not(.pre){border:1px solid var(--line);border-top:1px solid var(--line);padding:22px}
+.mcard.pre{border-style:dashed}
+.mcard .big,.ccard.win .acc,.ccard.win h4{color:var(--ink)}
+.mcard h3{font-size:20px;letter-spacing:-.03em}
+.mcard dt{font-size:10.5px;letter-spacing:.14em}
+.ccard{padding:18px;opacity:1}
+.ccard:not(.win){opacity:1;color:var(--muted)}
+.ccard:not(.win) h4,.ccard:not(.win) .acc{color:var(--ink-2)}
+.ccard.win{border:1px solid var(--ink);background:var(--surface)}
+.ccard .acc{font-size:26px;letter-spacing:-.04em}
+.gcard{border-top:1px solid var(--line);overflow:hidden}
+.gcard img{transition:transform .9s var(--ease)}
+.gcard:hover img{transform:scale(1.03)}
+.node,.flow .b,.arch .srv{border-radius:14px}
+.formula,.code{border-radius:12px}
+code{border-radius:6px}
+.tag,.tag.mine{border-radius:999px;padding:1px 9px;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase}
+.tag.mine{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.verdict{border-top:1px solid var(--ink)}
+.verdict .big{font-size:clamp(30px,3vw,40px);letter-spacing:-.045em;color:var(--ink)}
+.verdict.neg{border-top-color:var(--energetic)}
+.verdict.neg .big{color:var(--energetic)}
+.steps5 li{border-top:1px solid var(--ink)}
+
+/* studio */
+.drop{border-radius:20px;border:1px dashed color-mix(in srgb,var(--ink) 22%,transparent);background:transparent;transition:background-color .5s var(--ease),border-color .5s var(--ease)}
+.drop:hover,.studio.over .drop{border-color:var(--ink);background:var(--accent-soft)}
+.drop svg{color:var(--ink)}
+.drop .pickbtn,.btn{border-radius:999px;min-height:44px;padding:0 22px;background:var(--ink);border:0;color:var(--paper);font-weight:500;font-size:14px;transition:transform .5s var(--ease),opacity .3s}
+.btn:active,.drop:active .pickbtn{transform:scale(.97)}
+.btn.ghost{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.btn.ghost:hover{background:var(--hover)}
+.pick{border-radius:999px;padding:4px 14px 4px 4px;transition:background-color .3s var(--ease)}
+.pick:hover{background:var(--hover);border-color:var(--line)}
+.pick img{border-radius:999px}
+.result .thumb img,.hero-r .example img,.cmp-head img,.ex img,.example img{border-radius:14px}
+.prow .pt{border-radius:999px;border:0;background:var(--soft)}
+.hero-r .poem{font-size:20px}
+
+/* tabs, toggles, small buttons as pills */
+.tabs{border-bottom:0;gap:4px}
+.tabs [role=tab]{border:0;border-radius:999px;margin:0;padding:8px 16px;min-height:36px;font-size:14px}
+.tabs [role=tab]:hover{background:var(--hover)}
+.tabs [role=tab][aria-selected="true"]{background:var(--ink);color:var(--paper);border:0}
+.seg{border-radius:999px;padding:3px}
+.seg button{border-radius:999px}
+.seg button[aria-selected="true"]{background:var(--ink);color:var(--paper)}
+.tbtn{border-radius:999px;padding:0 12px;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase}
+.tbtn:hover,.tbtn[aria-expanded="true"]{background:var(--hover)}
+.code .copy{border-radius:999px}
+#tip{border-radius:12px;border-color:var(--line);box-shadow:var(--shadow);background:var(--surface)}
+.status.live .dot{box-shadow:none}
+footer.foot{font:500 11px var(--mono);letter-spacing:.14em;text-transform:uppercase}
 """
 
 # ---------------------------------------------------------------- HTML
@@ -620,9 +755,9 @@ HTML = r"""<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Image to Poem</title>
 <meta name="description" content="Student ML project: a photo goes in, an 8-line poem comes out. BLIP caption, CLIP features with a scikit-learn mood classifier I trained, and a LoRA fine-tune of Qwen2.5-0.5B-Instruct.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231c1917'/%3E%3Cpath d='M9 11h14M9 16h10M9 21h12' stroke='%23fafaf9' stroke-width='2.2' stroke-linecap='round'/%3E%3C/svg%3E">
-<link rel="preload" href="fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/ibm-plex-sans-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23000'/%3E%3Cpath d='M9 11h14M9 16h10M9 21h12' stroke='%23f5f5f7' stroke-width='2.2' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preload" href="fonts/geist-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/geist-600.woff2" as="font" type="font/woff2" crossorigin>
 <script>try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <style>/*CSS*/</style>
 </head>
@@ -650,7 +785,7 @@ HTML = r"""<!doctype html>
   <div class="hero-grid studio" id="studio">
     <div class="hero-l">
       <span class="lab">College ML mini-project · runs offline on a laptop</span>
-      <h1 id="h-try">Image to Poem</h1>
+      <h1 id="h-try">Image to Poem<span class="dim">.</span></h1>
       <p class="lead">Drop in a photo. The app describes it, decides its mood and writes an eight-line poem about it, in about {{SEC_PER_IMAGE}} seconds.</p>
       <div class="offline" id="offline" hidden>
         <p><strong>The demo server is not running.</strong> The rest of this page still works. To write poems, run this in the project folder:</p>
@@ -1271,7 +1406,7 @@ const best = byName[M.best] || models[0];
     },
     table: () => { const r = byName[cur];
       return table(['Mood', 'Precision', 'Recall', 'F1', 'Test images'], MOODS.map(m => { const p = r.per_class[m]; return [m, p.precision.toFixed(3), p.recall.toFixed(3), p.f1.toFixed(3), p.support]; }), [1, 2, 3, 4], `Per-class results, ${cur}`); },
-    how: 'Green diagonal = correct predictions; red cells = mistakes. The stronger the shade, the more images in the cell. Read across a row to see where images of one true mood ended up. Switch models above; Show table gives per-mood precision, recall and F1.',
+    how: 'Bright diagonal = correct predictions; red cells = mistakes. The stronger the shade, the more images in the cell. Read across a row to see where images of one true mood ended up. Switch models above; Show table gives per-mood precision, recall and F1.',
     what: (() => { const pc = best.per_class; const worst = MOODS.slice().sort((a, b) => pc[a].recall - pc[b].recall)[0]; const i = MOODS.indexOf(worst);
       const row = best.confusion[i]; const j = row.map((v, k) => k === i ? -1 : v).reduce((bi, v, k, a) => v > a[bi] ? k : bi, 0);
       return `For ${esc(best.name)}, <em>${esc(worst)}</em> is the hardest mood: only ${row[i]} of ${sum(row)} are found (recall ${pct(pc[worst].recall)}), and the most common mistake is calling them <em>${esc(MOODS[j])}</em>. Calm and energetic are the easiest. This matches the data: happy photos overlap with both peaceful scenes and lively parties.`; })()
@@ -1898,6 +2033,11 @@ def build(data, built):
     for k, v in {**facts(data), "TOC": toc, "GLOSSARY_HTML": gloss, "BUILT": built}.items():
         html = html.replace("{{" + k + "}}", str(v))
     html = re.sub(r"\[\[([^|\]]+)\|([a-z]+)\]\]", term, html)
+    # portfolio-style masthead: mono index + label on a hairline above each title
+    labels = {f"{i:02d}": t for i, (_, t) in enumerate(SECTIONS, 1)}
+    html = re.sub(r'<div class="sec-head"><span class="sec-num">(\d\d)</span>',
+                  lambda m: f'<div class="sec-head"><p class="eyebrow"><span class="sec-num">{m.group(1)}</span>'
+                            f'<i aria-hidden="true"></i><span>{esc(labels.get(m.group(1), ""))}</span></p>', html)
     css = CSS.replace("/*FONTS*/", font_css()).replace("/*DARK*/", DARK)
     return html.replace("/*CSS*/", css).replace("/*JS*/", JS).replace("__DATA__", payload)
 
@@ -1918,7 +2058,7 @@ def main():
         print("  warning: unfilled placeholders:", ", ".join(left))
     args.out.write_text(html, encoding="utf-8")
     missing = [f for *_, f in FONTS if not (SITE / "fonts" / f).exists()]
-    print(f"wrote {args.out} ({len(html) // 1024} KB)" + (f" · missing fonts: {missing}" if missing else " · fonts: IBM Plex (self-hosted)"))
+    print(f"wrote {args.out} ({len(html) // 1024} KB)" + (f" · missing fonts: {missing}" if missing else " · fonts: Geist + IBM Plex Serif (self-hosted)"))
 
 
 if __name__ == "__main__":

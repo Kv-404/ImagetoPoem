@@ -127,28 +127,31 @@ API: `curl -F image=@photo.jpg http://127.0.0.1:7860/api/poem` →
 
 ## Website design rules
 
-`site/build_site.py` builds a **monochrome editorial** page (no longer the Aayam/slate style).
-Goal: reads like a student's write-up, not an AI template. No gradients, no emoji, no glow.
+`site/build_site.py` builds a page in the **same style as the user's portfolio**
+(`~/Desktop/everything/Portfolio`, Next.js, Apple-like strict monochrome). The skin lives in the
+"portfolio skin" CSS block at the end of `CSS` and overrides the older rules above it.
+No gradients, no emoji, no glow.
 
-- **Fonts:** IBM Plex Sans (400/500/600) for text, Plex Mono (400/500) for labels and numbers,
-  Plex Serif (400, 400 italic, 600) for poems. Self-hosted woff2 in `site/fonts/` so the page
-  works offline. Don't add Google Fonts or a CDN.
-- **Tokens (warm stone grey):** light paper `#fafaf9` / surface `#fff` / line `#e7e5e4` /
-  ink `#1c1917` / muted `#78716c`; dark `#0c0a09` / `#1c1917` / `#292524` / ink `#fafaf9` /
-  muted `#a8a29e`.
-- **One accent, one meaning: emerald = "mine"** (trained by me / fine-tuned / chosen / kept).
-  `--accent` dark `#34d399` (text on it `#052e1f`), light `#047857` (text on it `#fff`).
-  Used for: active nav, Live dot, section numbers, KPI numbers, primary button, "Trained by me"
-  tags and card top edges, the chosen KNN card/row, fine-tuned series in charts, confusion
-  diagonal. Base model in charts = grey `--base`. Results that got worse use `--energetic` red
-  (e.g. rhyme, caption words) so the page stays honest. Chosen after a 4-reviewer critique
-  (teacher, professor, classmate, designer).
+- **Fonts:** Geist (400/500/600) for text, Geist Mono (400/500) for labels and numbers (copied from
+  the portfolio's `geist` package, OFL, `site/fonts/GEIST-LICENSE.txt`), IBM Plex Serif for poems.
+  Self-hosted woff2 in `site/fonts/` so the page works offline. Don't add Google Fonts or a CDN.
+- **Tokens (portfolio greys):** light paper `#fbfbfd` / surface `#fff` / line `#e5e5ea` /
+  ink `#1d1d1f` / muted `#6e6e73`; dark true black `#000` / surface `#0d0d0e` /
+  line `rgba(255,255,255,.09)` / ink `#f5f5f7` / muted `#a1a1a6`. Soft layered `--shadow`, glass nav.
+- **Look:** floating glass pill nav (blur 20px, links as pills, active = filled pill);
+  section masthead = mono `02 — LABEL` on a hairline, then a big tight title (letter-spacing
+  -0.045em) ending in a grey period; mono uppercase tracked labels; 20px rounded cards;
+  pill buttons (primary = ink fill, ghost = hairline); pill tabs and toggles.
+- **Accent = ink** (`--accent` = foreground). "Mine" (trained / fine-tuned / chosen) is shown by
+  solid ink: filled "Trained by me" tags, solid card borders, ink series in charts, bright
+  confusion diagonal. Pretrained = dashed border. Base model in charts = grey `--base`.
+  Results that got worse stay `--energetic` red (rhyme, caption words) so the page stays honest.
 - **Mood colours** appear only where mood matters, always with a text label and a shape
   (happy circle, sad square, calm triangle, energetic diamond). Validated palette, don't change
   without re-validating CVD: light `#eda100 #6250d6 #1baf7a #e34948`; dark
   `#c98500 #9085e9 #199e70 #e34948`.
 - **Layout (presentation order, the user's choice):** product first, then explanation.
-  Section links sit in the sticky top bar (scrollspy; a second, sideways-scrolling row below
+  Section links sit in the floating glass nav (scrollspy; a second, sideways-scrolling row below
   1100px) with the Live/Offline dot (polls `/api/health` every 15 s) and theme toggle.
   9 sections: `try` (hero = the Studio: drop box left, result/example poem right, KPIs),
   `models` (6 always-open cards: BLIP, CLIP, mood classifier, Qwen, LoRA adapter, poem scorer),
@@ -166,7 +169,7 @@ Goal: reads like a student's write-up, not an AI template. No gradients, no emoj
 - Must work at 375px with no horizontal scroll, in light and dark. Keep the skip link and
   visible focus rings. Escape all model text.
 
-The slide deck (claude.ai Slides artifact) uses the same IBM Plex fonts and stone palette.
+The slide deck (claude.ai Slides artifact) still uses the older IBM Plex fonts and stone palette.
 Never edit `site/index.html` by hand. Change `build_site.py` and rebuild.
 
 ## Code style

@@ -234,4 +234,4 @@ docs/screenshots/     images used in this README
 
 ## Credits
 
-Photos: Creative Commons images via [Openverse](https://openverse.org). Pretrained models: BLIP (Salesforce), CLIP (OpenAI), Qwen2.5-0.5B-Instruct (Qwen team), all from the Hugging Face Hub. Fonts: IBM Plex.
+Photos: Creative Commons images via [Openverse](https://openverse.org). Pretrained models: BLIP (Salesforce), CLIP (OpenAI), Qwen2.5-0.5B-Instruct (Qwen team), all from the Hugging Face Hub. Fonts: Geist (Vercel) and IBM Plex Serif.
